@@ -18,7 +18,7 @@ type: pm
 ---
 
 ##Kurzbeschreibung
-Es werden Grundlagen für die Analyse und algorithmische Verarbeitung von Graph basierten Daten eingeführt. 
+Behandlung spezieller Gebiete der Mathematik mit Relevanz für Informatik-Master (schließende Statistik, Visualisierung, Eigenwerte) sowie Projekt im Rahmen des Web-based Peer Review.  
 
 ## Lehrform/SWS: 
 4 SWS: Vorlesung 2 SWS; Seminar 2 SWS
@@ -31,29 +31,32 @@ Gesamtaufwand 150 h, davon
 - 12 h Selbststudium 
 
 ## Angestrebte Lernergebnisse:
-Mathematische Abstraktion und Fertigkeiten sind unverzichtbare Grundlagen wissenschaftlichen Arbeitens im Bereich der Informatik. Durch den Besuch dieser Veranstaltung sollen Studierende ihre mathematisch-abstrakte Analysefähigkeit weiter ausbauen, ihre Sicherheit im Umgang mit mathematischen Methoden mit Relevanz für die Informatik stärken, die Fähigkeit zur selbständigen Einarbeitung in neue mathematische Sachverhalte erhalten und ihre Beurteilungsfähigkeit im Umgang mit mathematisch-abstrakten Themen erhöhen.
+Mathematische Abstraktion und Fertigkeiten sind unverzichtbare Grundlagen wissenschaftlichen Arbeitens im Bereich der Informatik. Durch den Besuch dieser Veranstaltung sollen Studierende ihre mathematisch-abstrakte Analysefähigkeit weiter ausbauen, ihre Sicherheit im Umgang mit mathematischen Methoden mit Relevanz für die Informatik stärken, die Fähigkeit zur selbständigen Einarbeitung in neue mathematische Sachverhalte erhalten und ihre Beurteilungsfähigkeit im Umgang mit mathematisch-abstrakten Themen erhöhen. Durch den Web-based Peer Review werden wichtige Fertigkeiten zur Erstellung wissenschaftlicher Paper eingeübt.
 
 
 ## Inhalt:
 Exemplarische Fragestellungen der Mathematik in der Informatik mit beispielhaften Themen wie:
 - Deskriptive Statistik, Datenanalyse, Visualisierung
 - Schließende Statistik, Trendanalyse
-- Prädikatenlogik
+- Eigenwerte und ihre Anwendung in der Informatik, PCA
 - gemischt-ganzzahlige Optimierung
-- Simulationsverfahren
-- Differentialgleichung und ihre numerische Lösung
 
+Als Methode für das selbständige Arbeiten wird der Web-based Peer Review eingesetzt
+[Liu 01]. Jeder Studierende übernimmt dabei, in Anlehnung an den etablierten
+Prozess des wissenschaftlichen Publizierens, die Funktion eines Autors und die eines
+anonymen Gutachters.
 
 ## Studien-/Prüfungsleistungen:
 Präsentation und Klausur
 
 ## Medienformen:
-Präsentationsmaterialien, Arbeitsblätter
+Präsentationsmaterialien, Web-based peer review
 
 ## Literatur:
 - Liu, Eric Zhi-Feng, e.a., Web-based Peer Review: The learner as both Adapter and Reviewer, IEEE Transactions on Education, Vol 44, No 3, August 2001
 - Tufte, E.R., The Visual Display of Quantitative Information, Cheshire,CT, Graphics Press 1983
-- Hanke-Bourgeois, M., Grundlagen der Numerischen Mathematik und des Wissenschaftlichen Rechnens, 2. Aufl., Teubner 2006.
+- Stahel, Werner: Statistische Datenanalyse - eine Einführung für Naturwissenschaftler. 5., überarbeitete Auflage Vieweg, 2008.
+- Maas, Christoph: Stochastik für Dummies, Wiley-VCH, 2014.
 - Siehe ILIAS Modul MAS & SGM, Dokument Allgemeine Hinweise
 
 
